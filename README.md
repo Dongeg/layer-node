@@ -7,7 +7,8 @@ http://www.layui.com/doc/modules/layer.html
 使用方法
 
 ```html
-<!------引入--->
+
+<!---引入--->
 <script src="layer/layer.js"></script>
 <script>
 
